@@ -1,7 +1,3 @@
-# bank_additional
-Projeto Final do Quarto Semestre - PUC-SP (novembro/2023)
-
-
 <h1 align="center">Subscrição de Depósitos a Prazo</h1>
 
 <h3 align="center">:computer: Projeto Final do Quarto Semestre - PUC-SP :computer: </h3>
