@@ -25,6 +25,7 @@ O tema escolhido pelo grupo foi a Subscrição de Depósitos a Prazo
 - [x] Limpar o Dataset
 - [x] Fazer os gráficos
 - [ ] Analisar os gráficos
+- [ ] Pré-processamento e padronização dos dados
 - [ ] Balanceamento dos dados
 - [ ] Modelos de Machine Learning
 - [ ] Tirar insights
