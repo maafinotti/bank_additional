@@ -15,22 +15,20 @@
 ### :books: Sobre
 Este projeto foi realizado por um grupo de alunas da PUC-SP, para a entrega do projeto final do quarto semestre de **Ciência de Dados e Inteliência Artificial**.
 
-O tema escolhido pelo grupo foi a Subscrição de Depósitos a Prazo
-
-[...].
+O tema escolhido pelo grupo foi a Subscrição de Depósitos a Prazo.
 
 ### :bookmark_tabs: Etapas
 - [x] Pesquisar sobre o assunto
 - [x] Escolher o Dataset
 - [x] Limpar o Dataset
 - [x] Fazer os gráficos
-- [ ] Analisar os gráficos
-- [ ] Pré-processamento e padronização dos dados
-- [ ] Balanceamento dos dados
-- [ ] Modelos de Machine Learning
-- [ ] Tirar insights
-- [ ] PPT
-- [ ] Apresentar
+- [x] Analisar os gráficos
+- [x] Pré-processamento e padronização dos dados
+- [x] Balanceamento dos dados
+- [x] Modelos de Machine Learning
+- [x] Insights
+- [x] PPT
+- [x] Apresentar
 
 ### :eyes: Status
-Em andamento :soon:
+Concluído :white_check_mark:
